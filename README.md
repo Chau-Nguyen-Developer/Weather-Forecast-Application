@@ -56,9 +56,7 @@ Highest temparature will be at <time here>. Here are some more info:
 ```
 ### How do I Submit my Solution?
 1. Clone this GitHub repository and work on your solution. 
-
 2. After you're done working on it, fill out the information box above and push your version to a new branch called `solution`. You can also add your resume to your repository if you so choose! 
-
 3. Finally, make a pull request to the `main` branch once you're ready for us to interview you! If you think we forgot your pull request, please let us know via the NGCP Recruitment Discord!
 
 
@@ -66,13 +64,9 @@ Highest temparature will be at <time here>. Here are some more info:
 There are only a few quick rules:
 
 1. You can choose **any programming language you want!** *(you can even use detailed pseudo-code too!)*
-
 2. **No ChatGPT or AI assistance!** I want to see how YOU think, not how an AI thinks!
-
 3. However, **please take advantage of other online resources (Google, Stack Overflow, tutorials, documentations,...)** to help you out!. 
-
 4. You are free to make any assumptions about the problem that hasn't been mentioned above.  
-
 5. And most importantly...
 #### It's completely okay if you can't solve the problem fully! As long as you have something, we'll interview you!
 
