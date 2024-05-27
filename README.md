@@ -1,5 +1,13 @@
 # Technical Assessment for GCS 2024-25
 
+```
+# Information about you:
+1. Name:
+2. Preferred email:
+3. Availability within next week (i.e., 9AM-5PM everyday except for weekends,...):
+    - 
+```
+
 ## Table of Contents
 - Hold On!
 	- What we will test you on
@@ -49,7 +57,7 @@ Highest temparature will be at <time here>. Here are some more info:
 ### How do I Submit my Solution?
 1. Clone this GitHub repository and work on your solution. 
 
-2. After you're done working on it, add a copy of your resume to your and push your version to a new branch called `solution`.
+2. After you're done working on it, fill out the information box above and push your version to a new branch called `solution`. You can also add your resume to your repository if you so choose! 
 
 3. Finally, make a pull request to the `main` branch once you're ready for us to interview you! If you think we forgot your pull request, please let us know via the NGCP Recruitment Discord!
 
