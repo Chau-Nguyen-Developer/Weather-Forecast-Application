@@ -1,4 +1,18 @@
-# Technical Assessment for GCS 2024-25
+
+# Preface 
+_Updated Aug 1, 2025 by Chau Nguyen Developer_
+
+This Weather Forcast Application program will try to create and display a Graphical User Interface (GUI) (a Swing window), so you will need a display to show visual windows/graphics directly (it can be your laptop/PC screen or monitor). GitHub Codespaces is not recommended to run the program, as it is a headless environment.  
+
+You can clone this repository to your local machine, and then compile and run with a GUI-capable Java Developer Kit (JDK). I used IntelliJ in the past when I wrote this program.  
+
+I chose GUI-based method instead of terminal-based because I believe in the importance of creating a product that is accessible and user-friendly for everybody, not only those who work in technology field. I wanted to make use the feature of Java Swing library, so that my program can reacts to button clicks and triggered events from the users.  
+
+GCS stands for Ground Control Station.
+
+
+
+# Technical Assessment for GCS 2024-25 (by Khoi and GCS team)
 
 ```
 # Information about you:
