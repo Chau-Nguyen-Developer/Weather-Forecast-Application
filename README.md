@@ -6,9 +6,11 @@ This Weather Forcast Application program will try to create and display a Graphi
 
 You can clone this repository to your local machine, and then compile and run with a GUI-capable Java Developer Kit (JDK). I used IntelliJ in the past when I wrote this program.  
 
-I chose GUI-based method instead of terminal-based because I believe in the importance of creating a product that is accessible and user-friendly for everybody, not only those who work in technology field. I wanted to make use the feature of Java Swing library, so that my program can reacts to button clicks and triggered events from the users.  
+I chose GUI-based method instead of terminal-based because I believe in the importance of creating a product that is accessible and user-friendly for everybody, not only those who work in technology field. I used the Java Swing library to enable my program to respond to user interactions, such as button clicks and other triggered events.
 
-GCS stands for Ground Control Station.
+[The Northrop Grumman Collaboration Project (NGCP)](https://www.cpp.edu/engineering/ngcp/index.shtml) is a joint technology demonstration between Cal Poly Pomona and Cal Poly San Luis Obispo. Past missions revolve around the search and rescue of an immobile hiker, survivor, or patient.  
+
+GCS stands for Ground Control Station. People use ground control station to remotely operate and manage un-manned vehicles, such as drones and robots, during missions. GCS is also crucial in obtaining and analyzing data.  
 
 
 
